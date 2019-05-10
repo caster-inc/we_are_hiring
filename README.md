@@ -46,6 +46,6 @@ bosyu経由 or DMでお願いします
  * [Reworker[リワーカー]新しい働き方の企業限定求人メディア](https://www.reworker.jp/)
  * 社内向けプロダクト多数
 
-## links
+## official
 
  * [株式会社キャスター](https://caster.co.jp/)
