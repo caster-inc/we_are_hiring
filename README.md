@@ -39,7 +39,7 @@ bosyu経由 or DMでお願いします
 
  * [キャスターエンジニアブログ｜株式会社キャスター公式｜note](https://note.mu/caster_official/m/m72361d8173a9)
 
-## product
+## products
 
  * [SNSを使ったカンタン募集サービス | bosyu](https://bosyu.me/)
  * [スマホ・PCで簡単お仕事依頼「My Assistant」](https://myas.jp/accounts)
