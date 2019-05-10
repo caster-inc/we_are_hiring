@@ -38,6 +38,10 @@ bosyu経由 or DMでお願いします
 
  * https://bosyu.me/teams/1
 
+## SNS
+
+ * [Twitterリスト](/twitter.md)
+
 ## note
 
  * [キャスターエンジニアブログ｜株式会社キャスター公式｜note](https://note.mu/caster_official/m/m72361d8173a9)
