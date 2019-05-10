@@ -5,6 +5,7 @@
  * エンジニア えんだ [@enda531](https://twitter.com/enda531)
  * エンジニア ころちゃん [@corocn](https://twitter.com/corocn) 
  * エンジニア めろたん [@renyamizuno_](https://twitter.com/renyamizuno_)
+ * エンジニア Takuya Kato https://twitter.com/takkuya11
 
 ~~主にツイッター廃人を掲載しています~~ <br>
 ツイッターをよく使っているメンバーを掲載しています
