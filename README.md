@@ -14,7 +14,10 @@
 あくまで現在の情報ですが、採用軸を公開しています。  
 この情報はチームの規模やフェーズによって随時変わっていきます。
 
+### 全職種共通
  * [プロダクトチーム共通](/jobs/common.md)
+
+### 職種個別
  * [データサイエンティスト](/jobs/data_scientist.md)
  * [プロダクトマネージャー](/jobs/product_manager.md)
  * [ソフトウェアエンジニア](/jobs/software_engineer.md)
