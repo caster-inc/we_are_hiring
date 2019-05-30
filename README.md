@@ -21,6 +21,7 @@
 ### 職種個別
  * [データサイエンティスト](/jobs/data_scientist.md)
  * [プロダクトマネージャー](/jobs/product_manager.md)
+ * [プロダクトデザイナー](/jobs/product_designer.md)
  * [ソフトウェアエンジニア](/jobs/software_engineer.md)
 
 ## 質問がある方は
